@@ -8,7 +8,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-#Personal statement as a software developer#
+I am a software developer based in UK. I enjoy coding open-source projects that solve unique problems. I am highly motivated person, who has a huge will to learn and push his limits, therefore development opportunities and challenging projects are prioritized. I aspire toward a career that will allow me to channel my creativity through crafting beautiful software and engaging experiences. 
+
+My best skill is to never give up!
 
 
 
