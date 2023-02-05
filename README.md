@@ -1,8 +1,12 @@
 # Hi there, I am Ibrahim! 👋
 
+
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ICerci&show_icons=true&theme=radical" />
 
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICerci&layout=compact" />
+
 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
