@@ -8,8 +8,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICerci&layout=compact" />
 
 
-
-[![GitHub](https://img.shields.io/badge/-%20QA-blue)](https://github.com/ICerci/ICerci/edit/main/README.md)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+[![GitHub](https://img.shields.io/badge/-%20QA-blue)](https://github.com/ICerci/ICerci/edit/main/README.md) 
 
 
 I am a software developer based in UK. I enjoy coding open-source projects that solve unique problems. I am highly motivated person, who has a huge will to learn and push his limits, therefore development opportunities and challenging projects are prioritized. I aspire toward a career that will allow me to channel my creativity through crafting beautiful software and engaging experiences. 
